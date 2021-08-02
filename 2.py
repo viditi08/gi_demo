@@ -1,1 +1,1 @@
-print("hello frnd")
+print("monday")
